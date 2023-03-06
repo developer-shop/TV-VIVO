@@ -98,7 +98,8 @@ header1{display: flex; width:100%;}
 </style>
 </head>
 <body>
-  
+ <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v16.0" nonce="wmc20nhF"></script> 
   
 <div class="container">
 <section id="section1"><img src="1.png" width="110"  height="110">
@@ -116,8 +117,7 @@ header1{display: flex; width:100%;}
 </section>
 </div>
   
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v16.0" nonce="wmc20nhF"></script>
+
   
 
 <div class="nav"> 
